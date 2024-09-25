@@ -1,5 +1,5 @@
  # easy-nmap
-This tool makes using nmap easier in gui based command line 
+This tool makes using Nmap easier in gui based command line 
 ## ScreenShot
 ![salam](./screen.png)
 ## installation
@@ -17,8 +17,8 @@ easy-nmap
 ```
 You can run the above command anywhere in the terminal
 ## Contact us @woxsen university
-Team:
-# Vaishnavi G (vaishnavi0307)
-# Vamsi (vamsicodes7)
-# Mohitha
-# Hemanth
+# Team:
+Vaishnavi G (vaishnavi0307)
+Vamsi (vamsicodes7)
+Mohitha
+Hemanth

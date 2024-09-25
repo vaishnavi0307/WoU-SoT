@@ -8,7 +8,6 @@ Just run the following commands to install
 git clone https://github.com/vamsicodes7/WoU-SoT.git
 cd easy-nmap
 bash installer.sh
-cd -
 ```
 ## Usage
 Just run the following command

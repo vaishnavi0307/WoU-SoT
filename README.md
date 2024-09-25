@@ -15,10 +15,10 @@ Just run the following command
 ```
 easy-nmap
 ```
-You can run the above command anywhere in terminal
+You can run the above command anywhere in the terminal
 ## Contact us @woxsen university
 Team:
-Vamsi,
-Vaishnavi G (vaishnavi0307),
-Mohitha,
-Hemanth
+# Vaishnavi G (vaishnavi0307)
+# Vamsi (vamsicodes7)
+# Mohitha
+# Hemanth
